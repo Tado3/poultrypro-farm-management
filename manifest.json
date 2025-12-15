@@ -1,0 +1,10 @@
+{
+    "name": "Inventory POS",
+    "short_name": "InventoryPOS",
+    "description": "Inventory Management and Point of Sale System",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#4361ee",
+    "orientation": "portrait"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "poultrypro-farm-management",
+  "version": "1.0.0",
+  "description": "Poultry Farm Management System",
+  "main": "index.html",
+  "scripts": {
+    "dev": "live-server --port=3000",
+    "build": "echo 'Building static site...'",
+    "start": "serve -s ."
+  },
+  "dependencies": {
+    "serve": "^14.0.0"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  },
+  "keywords": ["poultry", "farm", "management", "inventory"],
+  "author": "Tado3",
+  "license": "MIT"
+}

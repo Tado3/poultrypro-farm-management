@@ -1,0 +1,14 @@
+{
+  "name": "inventory-pos",
+  "version": "1.0.0",
+  "description": "Poultry Farm Management System",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server --port=3000 --open=index.html",
+    "dev": "live-server --port=3000 --watch=. --open=index.html",
+    "serve": "live-server"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
